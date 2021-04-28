@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - balontagi
+  - oktagi
+  - block
+  - ucak
+  - structure
+  - Skull
+  - Canvas
+  - zemin
+  - box
+  - barrel
+  - death
+  - SoundButton
+  - skipUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 888
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 3
+    uniqueID: 2026235143
+    locked: 0
+  - name: New Layer
+    uniqueID: 697567657
+    locked: 0
+  - name: menu
+    uniqueID: 1765888281
+    locked: 0
